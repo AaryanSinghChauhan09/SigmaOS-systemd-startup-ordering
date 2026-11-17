@@ -3,7 +3,7 @@ name = "SigmaOS-systemd-startup-ordering"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "systemd-startup-ordering component"
+description = "systemd startup ordering"
 upstream = []
 
 [contract]
